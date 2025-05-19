@@ -38,8 +38,7 @@ A responsive frontend application for managing user tasks, built with React and 
 
 ## API
 
-This frontend application is designed to work with a separate backend API. It is configured to communicate with API endpoints for authentication and task management as discussed during development.
-
+This frontend application is designed to work with a separate backend API. 
 ## Installation
 
 1.  **Clone the repository:**
